@@ -1,0 +1,2 @@
+module ProjectShapes {
+}
